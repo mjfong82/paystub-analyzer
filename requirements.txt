@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+pdf2image
+pytesseract
+pillow
+regex
+rapidfuzz
+matplotlib
+pandas
